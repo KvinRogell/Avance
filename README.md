@@ -8,4 +8,5 @@ Kevin Alexander Rogel Vásquez
 
 SIS 21 "A"
  
-Ver Avance http://kvinrogell.github.io/Avance. 
+<a href="http://kvinrogell.github.io/Avance." Class="">Ver Avance</a>
+
