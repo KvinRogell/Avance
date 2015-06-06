@@ -74,6 +74,7 @@ text-decoration: underline;
 #content {
 background: #4c320d url(images/content.jpg) repeat-y;
 padding: 10px 20px;
+color: #6A5ACD;
 }
 
 .left {
